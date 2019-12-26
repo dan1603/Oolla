@@ -12,13 +12,6 @@
                   android:gravity="center"
                   android:clickable="true">
 
-        <!--<ImageView-->
-                <!--android:id="@+id/error_image"-->
-                <!--android:layout_width="wrap_content"-->
-                <!--android:layout_height="wrap_content"-->
-                <!--android:layout_gravity="center_horizontal"-->
-                <!--android:src="@drawable/page_error" />-->
-<!--todo refactor - using single case with handling different text color and size-->
         <TextView
                 android:id="@+id/error_title"
                 android:layout_width="wrap_content"
